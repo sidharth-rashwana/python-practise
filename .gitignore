@@ -1,0 +1,11 @@
+.venv
+.vscode
+General
+interview
+dsa
+fastapi-*
+flask-*
+github-actions
+images/
+*.md
+*.txt
